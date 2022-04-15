@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'SF Pro Display';
+  src: local('SF Pro Display'), url('../assets/fonts/SFPRODISPLAYREGULAR.OTF') format('opentype');
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  src: local('Gilroy'), url('../assets/fonts/gilroy-medium.ttf') format('truetype');
+}
+
+
+p {
+    font-family: 'SF Pro Display', Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #193048;
+}

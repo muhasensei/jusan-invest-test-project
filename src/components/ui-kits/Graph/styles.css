@@ -1,0 +1,7 @@
+.graph svg path {
+    stroke-width: 1;
+}
+
+.graph svg{
+    transform: scaleX(1.75);
+}

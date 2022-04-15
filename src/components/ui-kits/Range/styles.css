@@ -1,0 +1,22 @@
+.range-container {
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+
+.range-container input {
+    width: 100%;
+}
+
+
+.range-labels {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-style: normal;
+    font-family: 'Gilroy';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #193048;
+}

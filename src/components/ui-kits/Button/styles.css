@@ -1,0 +1,22 @@
+.btn {
+    background: linear-gradient(90deg, #FF7253 0%, #F05323 100%);
+    border-radius: 6px;
+    width: 100%;
+    font-family: 'SF Pro Display', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    border: none;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 16px 0;
+    padding: 12px;
+    cursor: pointer;
+}
